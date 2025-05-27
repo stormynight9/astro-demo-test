@@ -13,5 +13,8 @@
     "astro": "^5.8.0",
     "lucide-astro": "^0.511.0",
     "tailwindcss": "^4.1.7"
+  },
+  "devDependencies": {
+    "wrangler": "^4.17.0"
   }
 }
